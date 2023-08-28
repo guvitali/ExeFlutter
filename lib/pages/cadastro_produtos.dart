@@ -20,7 +20,7 @@ class _CadastroPageState extends State<Cadastro> {
 
   Widget _body() {
     return Padding(
-      padding: EdgeInsets.all(12),
+      padding: EdgeInsets.all(15),
       child: ListView(
         children: [
           Container(
