@@ -1,4 +1,4 @@
-import 'package:exercicio_calc/login_page.dart';
+import 'package:exercicio_calc/pages/login_page.dart';
 import 'package:exercicio_calc/pages/cadastro_produtos.dart';
 import 'package:exercicio_calc/pages/calculadora.dart';
 import 'package:exercicio_calc/pages/home_page.dart';
